@@ -20,9 +20,9 @@ The below table must contain the details of the repositories you will create, fi
 
 |  | Project's Name | Description    | GitHub's Link  |
 |:--:|:--------------:|:--------------:|:--------------:|
-| 1 |  -             |  -             | https://       |
-| 2 |  -             |  -             | https://       |
-| 3 |  -             |  -             | https://       |
+| 1 | simplesalescalculator          |  This repository contains simple calculator            | https://github.com/justinjabo250/simplesalescalculator      |
+| 2 |  Caesar-s-Cipher-Encryption            |  When encrypting , a person looks up each letter of the message in the "plain" line and writes down the corresponding letter in "cipher" line.             | https://github.com/justinjabo250/Caesar-s-Cipher-Encryption      |
+| 3 |  Using-the-nyc-ticket-violation-dataset             |  Let's assume that tickets can be dismissed if license plate, state, and/or street name are all there but without requiring the make of car How many rows remain? Assuming 100 /ticket, how much money would the city lose as a result of this?             | https://github.com/justinjabo250/Using-the-nyc-ticket-violation-dataset       |
 
 **NB**: `Do not modify` the general structure of this table above to avoid issue of evaluation, just fill the rows .
 
